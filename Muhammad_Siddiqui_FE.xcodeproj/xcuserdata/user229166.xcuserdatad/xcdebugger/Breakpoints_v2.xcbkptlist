@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "556E011B-C487-4FC9-A16A-2430D532E733"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0B9A760-6560-4957-95AD-6140F8ED940E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Muhammad_Siddiqui_FE_8939717/Map_Scene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61">
+            <Locations>
+               <Location
+                  uuid = "B0B9A760-6560-4957-95AD-6140F8ED940E - e9c0e7d375f46812"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Muhammad_Siddiqui_FE_8939717.Map_Scene.coordinates.getter : Swift.Optional&lt;__C.CLLocationCoordinate2D&gt;"
+                  moduleName = "Muhammad_Siddiqui_FE_8939717"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user229166/Documents/Muhammad_Siddiqui_FE_8939717/Muhammad_Siddiqui_FE_8939717/Map_Scene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "141">
+               </Location>
+               <Location
+                  uuid = "B0B9A760-6560-4957-95AD-6140F8ED940E - 83421cbd622f211e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Muhammad_Siddiqui_FE_8939717.Map_Scene.coordinates.setter : Swift.Optional&lt;__C.CLLocationCoordinate2D&gt;"
+                  moduleName = "Muhammad_Siddiqui_FE_8939717"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user229166/Documents/Muhammad_Siddiqui_FE_8939717/Muhammad_Siddiqui_FE_8939717/Map_Scene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "B0B9A760-6560-4957-95AD-6140F8ED940E - 7afedf16ef242827"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Muhammad_Siddiqui_FE_8939717.Map_Scene.coordinates.modify : Swift.Optional&lt;__C.CLLocationCoordinate2D&gt;"
+                  moduleName = "Muhammad_Siddiqui_FE_8939717"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user229166/Documents/Muhammad_Siddiqui_FE_8939717/Muhammad_Siddiqui_FE_8939717/Map_Scene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "B0B9A760-6560-4957-95AD-6140F8ED940E - ac45f2f1c16052a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Muhammad_Siddiqui_FE_8939717.Map_Scene.coordinates.modify : Swift.Optional&lt;__C.CLLocationCoordinate2D&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Muhammad_Siddiqui_FE_8939717"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user229166/Documents/Muhammad_Siddiqui_FE_8939717/Muhammad_Siddiqui_FE_8939717/Map_Scene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "B0B9A760-6560-4957-95AD-6140F8ED940E - 7d9a1d982e9cacf3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Muhammad_Siddiqui_FE_8939717.Map_Scene.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Muhammad_Siddiqui_FE_8939717.Map_Scene"
+                  moduleName = "Muhammad_Siddiqui_FE_8939717"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user229166/Documents/Muhammad_Siddiqui_FE_8939717/Muhammad_Siddiqui_FE_8939717/Map_Scene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "726">
+               </Location>
+               <Location
+                  uuid = "B0B9A760-6560-4957-95AD-6140F8ED940E - aeb55428ef8e2b11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Muhammad_Siddiqui_FE_8939717.Map_Scene.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Muhammad_Siddiqui_FE_8939717.Map_Scene&gt;"
+                  moduleName = "Muhammad_Siddiqui_FE_8939717"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user229166/Documents/Muhammad_Siddiqui_FE_8939717/Muhammad_Siddiqui_FE_8939717/Map_Scene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "667">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "887B0E46-48A1-4548-A38F-BDDBD9D46B55"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Muhammad_Siddiqui_FE_8939717/Main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "Main"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9869159F-D608-4EC1-936C-D96500B79A1B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Muhammad_Siddiqui_FE_8939717/History.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "History"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF0CC261-19BF-470B-A02A-14BD70230497"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Muhammad_Siddiqui_FE_8939717/Main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "saveCityToCoreData(cityName:lat:lon:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "735DB2A6-7D78-4051-86A8-407263D6D6E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Muhammad_Siddiqui_FE_8939717/Main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "gettingCityFromApi(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
